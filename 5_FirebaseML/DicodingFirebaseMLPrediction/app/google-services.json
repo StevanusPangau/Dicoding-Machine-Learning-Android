@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620613885280",
+    "project_id": "dicoding-firebase-ml",
+    "storage_bucket": "dicoding-firebase-ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620613885280:android:5ef279708efe49e8bed205",
+        "android_client_info": {
+          "package_name": "com.dicoding.myfirebasemlpredictions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfWe4StcE1jHbUcH7dIsk_RHnD9RqKD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

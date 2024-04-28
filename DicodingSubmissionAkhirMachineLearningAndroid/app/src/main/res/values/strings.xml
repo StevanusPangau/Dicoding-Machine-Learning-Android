@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CancerApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_analysis">Analysis</string>
+    <string name="title_history">History</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="image_classifier_failed">Gagal untuk menginisialisasi gambar. Lihat detail error pada LOG</string>
+
+    <string name="search_hint">Ingin cari siapa?</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="article">Article</string>
+    <string name="tanggal">tanggal</string>
+    <string name="informasi_kanker">Informasi Tambahan tentang Kanker</string>
+    <string name="deskripsi_tentang_kanker">Kanker adalah kondisi yang ditandai oleh pertumbuhan sel-sel yang tidak normal dalam tubuh. Untuk informasi lebih lanjut, kunjungi artikel kami yang disediakan dalam aplikasi tersebut.</string>
+</resources>
